@@ -1,4 +1,4 @@
-![Project Screenshot](path/to/380shots_so.png)
+![Project Screenshot](./public/380shots_so.png)
 
 ## Overview
 
